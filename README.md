@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2d2fa29f-bfca-4a33-9509-413f4b434904)
+
 Introduction
 In this fascinating project, we will investigate the use of an Arduino Nano and an L298 Motor Driver to create a Line Follower Robot with Obstacle Avoidance. Line follower robots are widely employed in various industries for tasks such as material handling and in entertaining events like robotic racing. By combining the precision of line following with the intelligence to avoid obstacles, this project aims to create a versatile and dynamic robot. Using the Arduino IDE and a variety of components, you can build an intelligent robot capable of navigating through complex environments.
 
